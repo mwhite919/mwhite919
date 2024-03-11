@@ -9,5 +9,5 @@ When I'm not coding or dancing, I'm experimenting with culinary creations from a
 -🔭 I’m currently working on a Crypto Application and a Team and Project Management Application<br>
 -😄 Pronouns: she/her/hers <br>
 -💬 Reach out to me on LinkedIn(michellewhite919) and let's chat about frontend development, dance, self-growth, culinary adventures, or anything else that ignites our curiosity :) <br>
--Favorite playlist to code to: Amapiano to the World! -DJ Phaphane
+-🎶Favorite playlist to code to: Amapiano to the World! -DJ Phaphane
 
