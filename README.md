@@ -4,8 +4,7 @@ With diverse experiences across industries, I've found my passion in frontend de
 Having previously served as a mindset coach, self-development and cultivating a positive outlook are ingrained in my DNA. I'm perpetually seeking avenues for personal and professional growth, eager to explore new horizons and evolve as both a coder and an individual.
 When I'm not coding or dancing, I'm experimenting with culinary creations from around the globe, appreciating the joy of shared meals with friends. ✨ 
 
--⚡ I have an international background as I am from the US but have lived abroad for the past 8 years (Asia, South America, Europe)
-
+-⚡ I have an international background as I am from the US but have lived abroad for the past 8 years (Asia, South America, Europe) <br>
 -🔭 I’m currently working on a Crypto Application and a Team and Project Management Application
 
 -😄 Pronouns: she/her/hers
