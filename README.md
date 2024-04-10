@@ -4,7 +4,7 @@ With diverse experiences across industries, I've found my passion in frontend de
 
 <h3>A bit more...</h3>
 -⚡ I am from the US but have lived abroad for the past 8 years (Asia, South America, Europe) <br>
--🔭 I’m currently working on a Crypto Application and a Team and Project Management Application<br>
+-🔭 I’m currently working on a Crypto Application<br>
 -😄 Pronouns: she/her/hers <br>
 -💬 Reach out to me on LinkedIn(michellewhite919) and let's chat about frontend development, dance, self-growth, culinary adventures, or anything else that ignites our curiosity :) <br>
 -🎶Favorite playlist to code to: Amapiano to the World! -DJ Phaphane
