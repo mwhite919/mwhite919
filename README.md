@@ -4,7 +4,7 @@ With diverse experiences across industries, I've found my passion in software de
 
 <h3>A bit more...</h3>
 -⚡ I am from the US but have lived abroad for 8 years (Asia, South America, Europe) <br>
--🔭 I’m currently working on projects for the Headstarter.ai fellowship.<br>
+-🔭 I’m currently working as a Technical Consultant and Software Engineer at Pariveda Solutions.<br>
 -😄 Pronouns: she/her/hers <br>
 -💬 Reach out to me on LinkedIn(michellewhite919) and let's chat about software development, dance, self-growth, culinary adventures, or anything else that ignites your curiosity :) <br>
 -🎶Favorite playlist to code to: Amapiano to the World! -DJ Phaphane
